@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am marialeaaraujo on github.
+  * I am marialeaaraujo (https://keybase.io/marialeaaraujo) on keybase.
+  * I have a public key ASDt88HJ7l7qlc0QF8gj4D19Urs0ewboskdsCOov5Nc7Lgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120edf3c1c9ee5eea95cd1017c823e03d7d52bb347b06e8b2476c08ea2fe4d73b2e0a",
+      "host": "keybase.io",
+      "kid": "0120edf3c1c9ee5eea95cd1017c823e03d7d52bb347b06e8b2476c08ea2fe4d73b2e0a",
+      "uid": "ca52bd698bc8fe09eec5d7160d340e19",
+      "username": "marialeaaraujo"
+    },
+    "merkle_root": {
+      "ctime": 1574117571,
+      "hash": "68c88dca351a2d5817537429d4c08e74fd9bcb0b2a534ebc5c8b3742e399d1d38a16744f97da794d226a5224aa0d760315017c0a4ee98000bb15313784507d97",
+      "hash_meta": "2d1bdfb5f04707361adc4eada29199bf9c09634bf85960830bd4cc232018db2a",
+      "seqno": 10130307
+    },
+    "service": {
+      "entropy": "Es7l2mRd2idNsUDJYV5amzgD",
+      "name": "github",
+      "username": "marialeaaraujo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574117579,
+  "expire_in": 504576000,
+  "prev": "7a91636627e31fbe422531b0365a4ec23511cab21e2b0e8d644f34819efeaaa5",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASDt88HJ7l7qlc0QF8gj4D19Urs0ewboskdsCOov5Nc7Lgo](https://keybase.io/marialeaaraujo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7fPBye5e6pXNEBfII+A9fVK7NHsG6LJHbAjqL+TXOy4Kp3BheWxvYWTESpcCBMQgepFjZifjH75CJTGwNlpOwjURyrIeKw6NZE80gZ7+qqXEIN4bdT4OFEhQb3AKB9MKOK30cz+MpMyI3P7sSys7pT+YAgHCo3NpZ8RA6GbDUSB1eNR+858tjHv4RvbpHQKELIymSa5SfNxZdSRKq6yHH7dWSjw3a+WVXJyVd8Q/qErGL4a8Lb9uw62iCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEk2K4M0eCT9gZAf7rSQeYCtyjeWpPytZUjZvwUdTSy1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/marialeaaraujo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id marialeaaraujo
+```
